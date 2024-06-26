@@ -1,0 +1,30 @@
+_repo: World-atavism_73857
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hamilton, Edmond
+    alias: Sterling, Brett
+    birthdate: 1904
+    deathdate: 1977
+    gutenberg_agent_id: '26787'
+    url: http://www.gutenberg.org/2009/agents/26787
+    wikipedia: https://en.wikipedia.org/wiki/Edmond_Hamilton
+description: ''
+gutenberg_issued: '2024-06-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73857'
+language: en
+pgterms:marc905: 20240330042317hamilton
+pgterms:marc906: '1930'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aJamaica, NY :$bExperimenter Publications Inc., $c1930.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: World atavism
+url: http://www.gutenberg.org/ebooks/73857
